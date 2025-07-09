@@ -1,0 +1,9 @@
+streamlit 
+google-generativeai
+Pillow
+speechrecognition
+folium
+streamlit-folium
+requests 
+pyttsx3
+pyAudio
