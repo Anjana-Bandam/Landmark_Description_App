@@ -4,7 +4,7 @@ This app is an AI-powered travel assistant that generates detailed landmark desc
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
 
 - 🗺️ AI-generated descriptions for any landmark or place
 - 📍 Detects your current location and shows it on an interactive map
